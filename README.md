@@ -1,2 +1,2 @@
-# agroman
-Repositorio 
+# AgroMan
+Repositorio académico
